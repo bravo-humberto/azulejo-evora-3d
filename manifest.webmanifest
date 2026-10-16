@@ -1,0 +1,1 @@
+{"name":"Azul: Royal Palace of Évora 3D","short_name":"Azul 3D","description":"3D Tactile Portuguese Ceramic Tile-Drafting Game","start_url":"./","display":"standalone","background_color":"#0B2545","theme_color":"#0B2545","lang":"en","scope":"./","orientation":"portrait","icons":[{"src":"textures/tile_blue.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
